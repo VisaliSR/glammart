@@ -1,0 +1,25 @@
+.service-container {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .services,
+  .vehicle-info {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    margin-left: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }

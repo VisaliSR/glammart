@@ -1,0 +1,51 @@
+.rating-container {
+  text-align: center;
+  margin: 50px;
+
+  height: 700px;
+}
+
+.rating-stars {
+  font-size: 2rem;
+}
+
+.star {
+  cursor: pointer;
+}
+
+.star.selected {
+  color: gold;
+}
+
+.body-div{
+  height: 700px;
+  background-color: #6364D5;
+}
+h2{
+  color: #fff9f9;
+}
+p{
+  color: #ffffff;
+}
+.body{
+  background-color: rgb(241, 181, 223);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
